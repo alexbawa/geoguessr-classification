@@ -1,5 +1,5 @@
 # geoguessr-classification
-See blog post detailing the goal, data, approach, and model architecture [here](tim.put/it/here).
+See blog post detailing the goal, data, approach, and model architecture [here](https://medium.com/@tef1/geoguessr-guesser-98e01efb5235).
 
 ## geoguessr-predictions.ipynb
   This notebook loads a saved version of the model and makes Top-5 predictions on specific images availabile. This was used to assess the performance of the model in non-quantitative ways. See the comments in the notebook for insights on model behavior.
